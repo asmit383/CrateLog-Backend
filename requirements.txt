@@ -1,0 +1,9 @@
+Django>=5.0
+djangorestframework
+pandas
+requests
+python-dotenv
+numpy
+scipy
+geopy
+polyline
